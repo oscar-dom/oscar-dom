@@ -20,6 +20,11 @@ Not public — it runs inside a hospital.
 
 **Learning HL7 FHIR** — the interoperability standard European healthcare is converging on ahead of the European Health Data Space.
 
+## Personal projects
+
+- **[task-manager-notion](https://github.com/oscar-dom/task-manager-notion)** · Java · 2024. Console task manager built on MVC, with interchangeable storage behind a single interface: a local file or a Notion database through its API.
+- **[restaurant-manager-wpf](https://github.com/oscar-dom/restaurant-manager-wpf)** · C# / WPF · 2025. Desktop app for running a restaurant floor: table states, orders, tickets and hand-drawn consumption charts.
+
 ## About this profile
 
 Most of what I have built so far is university coursework or a hospital system that cannot be published. This will fill up over the coming months as the FHIR work and my final-year project go up.
