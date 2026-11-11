@@ -22,11 +22,11 @@ Not public — it runs inside a hospital.
 
 ## Personal projects
 
+- **[gardenpulse-api](https://github.com/oscar-dom/gardenpulse-api)** · TypeScript · 2026. REST API for monitoring the sensors of a vegetable garden. Readings reference their sensor instead of copying its data, and the server flags each reading as anomalous against the sensor's threshold when it is saved. JWT auth with admin and user roles, a paged reading history that can be filtered and sorted in a single query, Zod validation with one consistent error format, OpenAPI docs and 116 integration tests against an in-memory MongoDB.
 - **[vitalpulse-api](https://github.com/oscar-dom/vitalpulse-api)** · TypeScript · 2026. HL7 FHIR R4 server for vital signs, with a React web app for clinicians. Patients and observations are FHIR resources with LOINC codes and UCUM units, and the server interprets every value against its reference range. Versioned resources with optimistic locking, paged search Bundles, every error returned as an OperationOutcome, admin and clinician roles, integration tests and OpenAPI docs.
 - **[claude-config](https://github.com/oscar-dom/claude-config)** · Shell · 2026. My Claude Code setup, synced across devices with installers for Windows and macOS/Linux. Includes a skill that sets up Git Flow on a repository: protected branches, PR templates and CI.
 - **[restaurant-manager-wpf](https://github.com/oscar-dom/restaurant-manager-wpf)** · C# / WPF · 2025. Desktop app for running a restaurant floor: table states, orders, tickets and hand-drawn consumption charts.
 - **[task-manager-notion](https://github.com/oscar-dom/task-manager-notion)** · Java · 2024. Console task manager built on MVC, with interchangeable storage behind a single interface: a local file or a Notion database through its API.
-- **[gardenpulse-api](https://github.com/oscar-dom/gardenpulse-api)** · TypeScript · 2026. REST API for monitoring the sensors of a vegetable garden. Readings reference their sensor instead of copying its data, and the server flags each reading as anomalous against the sensor's threshold when it is saved. JWT auth with admin and user roles, a paged reading history that can be filtered and sorted in a single query, Zod validation with one consistent error format, OpenAPI docs and 116 integration tests against an in-memory MongoDB.
 
 ## Elsewhere
 
